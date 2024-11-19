@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pfasili
 - 👀 I’m interested in ic and electronics design.
-- 🌱 I’m currently studying physics in AuTh, Greece! 
+- 🌱 I’m currently a MSc student in Electronic Physics at AuTh, Greece! 
 
 <!---
 pfasili/pfasili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
