@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pfasili
-- 👀 I’m interested in ic and electronics design.
+- 👀 I’m interested in learning new things everyday!
 - 🌱 I’m currently a MSc student in Electronic Physics at AuTh, Greece! 
 
 <!---
